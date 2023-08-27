@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x515d92E46aA42809787Dad2539cEc993F9f97356",
+  "SCAN_LINK": "https://etherscan.io/address/0x515d92E46aA42809787Dad2539cEc993F9f97356",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Frank and Pank Genesis",
+  "SYMBOL": "FAPO",
+  "MAX_SUPPLY": 1111,
+  "WEI_COST": 80000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/frankandpankofficial",
+  "SHOW_BACKGROUND": true
+}
